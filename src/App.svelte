@@ -17,7 +17,7 @@
   :global(h1) {color: rebeccapurple; animation: zoom 30s infinite;}
   :global(p) { font-size: 44px; }
   .links {text-align: center;}
-@keyframes zoom {
+@keyframes -global-zoom {
   0%, 100% {transform: scale(3)}
   50% {transform: scale(0.5)}
 }
