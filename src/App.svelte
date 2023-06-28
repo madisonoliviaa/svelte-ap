@@ -14,8 +14,8 @@
 <Component2 />
 
 <style>
-  h1 {color: rebeccapurple; animation: zoom 30s infinite;}
-  p { font-size: 44px; }
+  :global(h1) {color: rebeccapurple; animation: zoom 30s infinite;}
+  :global(p) { font-size: 44px; }
   .links {text-align: center;}
 @keyframes zoom {
   0%, 100% {transform: scale(3)}
