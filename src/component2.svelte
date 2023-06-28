@@ -7,7 +7,8 @@
 </div>
 
 <style>
-  h1 {
+  h1,
+  p {
     animation: zoom 30s infinite;
   }
 </style>
