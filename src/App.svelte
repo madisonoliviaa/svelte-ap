@@ -1,6 +1,6 @@
 <script>
   let name = "madison";
-  import Component2__SvelteComponent_ from "./component2.svelte";
+  import Component2 from "./component2.svelte";
 </script>
 
 <h1>Madisons first svelte component</h1>
@@ -11,7 +11,7 @@
   <a href="https://twitter.com/madisonoliviaa_">Link to my twitter</a>
 </div>
 
-<component2/>
+<Component2/>
 
 <style>
   h1 {
