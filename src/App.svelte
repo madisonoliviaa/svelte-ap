@@ -11,6 +11,8 @@
   <a href="https://twitter.com/madisonoliviaa_">Link to my twitter</a>
 </div>
 
+< component2 />
+
 <style>
   h1 {
     color: rebeccapurple;
